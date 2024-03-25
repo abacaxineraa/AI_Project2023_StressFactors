@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/abaca/projects/ai_rnd_2023/venv-ai-rnd"
+set -gx VIRTUAL_ENV "/home/abaca/AI_Project2023/venv-ai-rnd"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/abaca/projects/ai_rnd_2023/venv-ai-rnd"
+VIRTUAL_ENV="/home/abaca/AI_Project2023/venv-ai-rnd"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

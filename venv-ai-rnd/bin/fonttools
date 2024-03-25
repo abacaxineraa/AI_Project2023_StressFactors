@@ -1,4 +1,4 @@
-#!/home/abaca/projects/ai_rnd_2023/venv-ai-rnd/bin/python3
+#!/home/abaca/AI_Project2023/venv-ai-rnd/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
